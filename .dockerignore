@@ -1,0 +1,10 @@
+Dockerfile
+Makefile
+VERSION
+README.md
+monitor.go
+release/*.tgz
+release/*.zip
+release/bin/darwin_amd64
+release/bin/linux_arm
+release/bin/windows_amd64
